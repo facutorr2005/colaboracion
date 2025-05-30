@@ -1,3 +1,3 @@
 <?php
-echo 'con mucha mucha mucha mucha colaboración';
+echo 'sin colaboracion';
 echo 'colaboración';
